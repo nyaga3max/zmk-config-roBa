@@ -72,8 +72,6 @@
 &kp Z     &kp X         &kp C              &kp V                  &kp B        &mkp MB2         &kp CAPS   &kp N            &kp M  &kp COMMA  &kp DOT  &kp SLASH
 &kp RCMD  &kp LEFT_ALT  &kp RIGHT_CONTROL  &mt LEFT_COMMAND CAPS  &lt 1 SPACE  &lt 3 ENTER      &lt 1 DEL  &lt 2 BACKSPACE                             &kp RIGHT_SHIFT
             >;
-
-            sensor-bindings = <&inc_dec_kp PG_UP PAGE_DOWN>;
         };
 
         FUNCTION {
